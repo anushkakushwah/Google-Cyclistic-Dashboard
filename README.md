@@ -1,5 +1,5 @@
-📊 Power BI Dashboard Project (UIDAI Data Analysis)
-This project of mine is work of my participation in UIDAI data analysis hackathon 2026 
+📊 Power BI Dashboard Project 
+This is my project work i made for the successful completion of Google Data Analytics Professional Certificate
 
 ## 🔗 Dashboard File
 Due to large file size (481MB), the Power BI file is stored externally:
