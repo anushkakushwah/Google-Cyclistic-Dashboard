@@ -6,7 +6,7 @@ Due to large file size (481MB), the Power BI file is stored externally:
 
 👉 Download here: https://drive.google.com/your-link
 
-## 📁 Files included
+## 📁 Files included in project
 - Excel dataset
 - PDF dashboard
 - Word report
